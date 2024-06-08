@@ -1,4 +1,4 @@
-# Amazon-Sale-Dashboard
+# Amazon-Order_Report
 
 1- Our Data contains order details for duration March, April, May, June for year 2022, which all were ordered from Amazon.in.
 
